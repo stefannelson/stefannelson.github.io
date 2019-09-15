@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Stefan Nelson</title>
+    <link>https://stefannelson.github.io/authors/</link>
+      <atom:link href="https://stefannelson.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://stefannelson.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://stefannelson.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://stefannelson.github.io/authors/stefan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://stefannelson.github.io/authors/stefan/</guid>
+      <description>&lt;p&gt;My name is Stefan Nelson and I am a graduate of Minnesota State University Moorhead with a Computational Mathematics major with minors in Statistics and Astronomy. Throughout my years in higher education, I have used Python, C++, and R extensively for projects in data analysis and undergraduate research in numerical modelling of partial differential equations.&lt;/p&gt;
+
+&lt;p&gt;While completing my undergraduate degree, I discovered a love for education and national service that brought me to Flagstaff, AZ. Since mid-2018, I have been in roles such as an instructor and administrator at Northern Arizona University. Recently, I have transitioned to being the STEM Education Integrator at Killip Elementary School though Americorps VISTA. I am deeply passionate in applying my skills in technology and mathematics to problems in education, and VISTA has given me an excellent outlet to do so. I have also recently taken on teaching and tutoring roles at Coconino Community College.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefan Nelson</title>
+    <link>https://stefannelson.github.io/authors/stefan/</link>
+      <atom:link href="https://stefannelson.github.io/authors/stefan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stefan Nelson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://stefannelson.github.io/img/icon-192.png</url>
+      <title>Stefan Nelson</title>
+      <link>https://stefannelson.github.io/authors/stefan/</link>
+    </image>
+    
+  </channel>
+</rss>
