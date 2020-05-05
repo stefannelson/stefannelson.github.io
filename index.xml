@@ -5,7 +5,7 @@
     <link>https://stefannelson.github.io/</link>
       <atom:link href="https://stefannelson.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Stefan Nelson</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://stefannelson.github.io/img/icon-192.png</url>
       <title>Stefan Nelson</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Posts</title>
       <link>https://stefannelson.github.io/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       <guid>https://stefannelson.github.io/post/</guid>
       <description></description>
     </item>

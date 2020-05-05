@@ -5,12 +5,20 @@
     <link>https://stefannelson.github.io/tags/</link>
       <atom:link href="https://stefannelson.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://stefannelson.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://stefannelson.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Education</title>
+      <link>https://stefannelson.github.io/tags/education/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://stefannelson.github.io/tags/education/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
