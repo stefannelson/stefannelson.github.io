@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productivity | Stefan Nelson</title>
+    <link>https://stefannelson.github.io/tags/productivity/</link>
+      <atom:link href="https://stefannelson.github.io/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Productivity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Apr 2020 20:34:00 -0700</lastBuildDate>
+    <image>
+      <url>https://stefannelson.github.io/img/icon-192.png</url>
+      <title>Productivity</title>
+      <link>https://stefannelson.github.io/tags/productivity/</link>
+    </image>
+    
+    <item>
+      <title>For Your Consideration: A Sustainable Productivity System (2020)</title>
+      <link>https://stefannelson.github.io/post/taskwarrior/</link>
+      <pubDate>Sun, 26 Apr 2020 20:34:00 -0700</pubDate>
+      <guid>https://stefannelson.github.io/post/taskwarrior/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This guide is intended to be a look at how I approach work in a way that encourages focusing during my peak productive hours and disengaging for the bettering of my mental health.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;I have been fascinated in improving the way I work for some time, in part because I hit a point in my life where it became a necessity. I ended up taking a year off between undergrad and graduate school to complete a term of national service with AmeriCorps VISTA for the sake of my mental health and mitigating any burnout resulting from completing my degree. This gave me a unique opportunity to grow professionally by taking a magnifying glass to my habits. What follows is an overview of the applications that have helped me become organized, focused, and inspired.&lt;/p&gt;
+&lt;h2 id=&#34;preliminaries---what-does-a-productivity-system-look-like&#34;&gt;Preliminaries - What does a productivity system look like?&lt;/h2&gt;
+&lt;p&gt;I have always found disconnecting from work to be a difficult task. I wanted to change that, which led me to finding applications that can act as a &amp;ldquo;second brain&amp;rdquo; of sorts. The requirements I came up with include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A task and idea repository.&lt;/li&gt;
+&lt;li&gt;A calendar.&lt;/li&gt;
+&lt;li&gt;A time tracker.&lt;/li&gt;
+&lt;li&gt;A database for documents/books to read and annotate.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Effectively, I think of each application as a &amp;ldquo;bucket&amp;rdquo; of sorts for different types of data to store.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tasks&lt;/strong&gt; are things that are actionable. They could be phone calls, documents to write up, or emails to send. The smaller in scope these are, the better, although this is something I don&amp;rsquo;t stick to. This is the most accessible part of my system, as literally any thought I have gets tossed in to be saved for later review.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Calendar events&lt;/strong&gt; are fairly self-explanatory. If something is required of me at a certain time, work or personal, it goes on my calendar in order for me to be reminded of it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Content&lt;/strong&gt; can include articles, books, etc. that I want to save for later. I love reading non-fiction, but important pieces of text can be difficult to return to time and time again if they aren&amp;rsquo;t easily accessible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With the aspects of the system in place, I wanted the application choices to be, above all, inexpensive and sustainable. For example, a popular to-do list manager I found in my research over and over again was Todoist. While I think it is an excellent app, many of its best features are for premium users only. What&amp;rsquo;s worse, Todoist runs the risk of going the way of the &amp;ldquo;Wunderlist.&amp;rdquo; If Todoist was to be sold, the entire service could be shut down, forcing all users to migrate to something else. I want a system that can be set up once per machine that I can trust. So, what applications made the cut?&lt;/p&gt;
+&lt;h2 id=&#34;taskidea-repository---taskwarrior&#34;&gt;Task/Idea Repository - &lt;strong&gt;Taskwarrior&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;For my money, &lt;a href=&#34;https://taskwarrior.org/&#34;&gt;Taskwarrior&lt;/a&gt; is the finest task manager ever developed and is the cornerstone to keeping my life from turning into utter chaos.&lt;/p&gt;
+&lt;h2 id=&#34;calendar---google-calendar&#34;&gt;Calendar - &lt;strong&gt;Google Calendar&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;To be quite honest, this one is out of necessity. Google Calendar works on nearly everything, but most importantly, nearly everybody uses it. My job at AmeriCorps VISTA uses this for every event, from staff meetings to who is doing recess duty that week.&lt;/p&gt;
+&lt;h2 id=&#34;content-database---polar-bookshelf&#34;&gt;Content Database - &lt;strong&gt;Polar Bookshelf&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;This is a relatively new discovery for me, but has been so helpful&lt;/p&gt;
+&lt;h2 id=&#34;what-else-is-needed&#34;&gt;What else is needed?&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
