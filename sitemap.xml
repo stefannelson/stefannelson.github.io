@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://stefannelson.github.io/authors/stefan/</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://stefannelson.github.io/authors/</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
   </url>
@@ -40,6 +35,10 @@
   <url>
     <loc>https://stefannelson.github.io/post/covid-teaching/</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stefannelson.github.io/authors/stefan/</loc>
   </url>
   
   <url>
